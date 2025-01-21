@@ -1,0 +1,10 @@
+﻿Developers
+Programming
+Animation
+Sounds
+Music
+Particles
+Textures (10%)
+Models (10%)
+Textures (90%)
+Models (90%)

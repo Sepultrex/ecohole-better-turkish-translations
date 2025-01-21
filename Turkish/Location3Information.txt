@@ -1,0 +1,20 @@
+﻿Mutation
+To inhibit the mutation process, create and inject serum. Collect the leaves, mix in the special machine, add the resulting liquid in the flask to the mixture. Place the serum in the syringe.
+Long arm
+The hand is following you, so try to avoid staying in the dark. Keep the light around you and the big lamp working.
+Iron-headed horse
+Use the gun to incapacitate the enemy.
+Parasite
+You have access to the corpses of the local morgue. Take the bodies in bags to the parasite to calm the monster down.
+Tall girl
+She does not like when you point the light at her or get too close. Also, try to charge the main lamp no more than 80%.
+Artificial child
+When you come across him, try not to run, it can make him more aggressive. Just walk carefully towards him to scare him away.
+
+
+Use computers to begin stopping the portal.
+Disconnect broken wires and connect backups.
+Find 3 cylinders and send them to the portal through the valve.
+Use minicomputers to open the server blocks.
+Find the drives you want and replace the data.
+Press the button and wait for the portal to close.

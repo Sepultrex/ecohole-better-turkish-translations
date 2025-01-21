@@ -1,0 +1,25 @@
+﻿Main menu
+Singleplayer
+CO-OP Game
+Exit
+Language
+Back
+Forest
+Bunker
+Portal
+Continue
+If you are the second player, wait for the invite
+Invite a player to join you
+Invite
+Cancel
+Start
+Disconnect
+Another player chooses the location, wait...
+Quick menu
+Mother
+Restart
+Exit to the main menu
+OK
+Error
+Loading...
+Waiting for another player

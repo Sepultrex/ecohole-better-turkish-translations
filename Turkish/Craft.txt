@@ -1,0 +1,8 @@
+﻿Charge the flashlight
+Torch
+Charge the battery
+Explosives
+Charge the converter
+Reload the flamethrower
+Get the crystal
+Reload the gun

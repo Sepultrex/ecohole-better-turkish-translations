@@ -1,0 +1,15 @@
+﻿Settings
+Gamepad
+Keyboard
+Graphics
+Sound volume
+Screen Resolution
+Window Mode
+Visual effects
+Gamma
+(AO) Ambient occlusion
+Blur
+Bloom
+Antialiasing
+Shadows
+Quality of the world

@@ -1,0 +1,8 @@
+﻿Not enough space
+The flamethrower is out of fuel
+The monster is blocked
+Need
+Craft
+Inventory
+Skip
+Empty

@@ -1,0 +1,8 @@
+﻿Survival Time
+Main progress
+Items crafted
+Crystals used
+Corpses summoned
+Shots fired
+Serums used
+Find the toxin to skip the monster
