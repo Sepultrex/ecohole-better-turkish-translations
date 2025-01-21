@@ -1,13 +1,13 @@
 ﻿Irritation
-Don't get close to Mom, it annoys her.
-Hunger
-Catch the chickens in the yard and bring them to Mom.
-Fire in the fireplace
-Throw firewood in the fireplace.
-Dog barking
-Calm the dog down with a bone.
-Crows
-Drive away the crows.
+Annene yaklaşma bu onu rahatsız ediyor.
+Açlık
+Bahçedeki tavukları yakala ve annene getir.
+Şömineyi yak
+Şömineye odun at.
+Köpek havlıyor
+Köpeği kemikle sakinleştir.
+Kargalar
+Kargaları kov.
 
 
 

@@ -1,15 +1,15 @@
-﻿Settings
-Gamepad
-Keyboard
-Graphics
-Sound volume
-Screen Resolution
-Window Mode
-Visual effects
-Gamma
-(AO) Ambient occlusion
-Blur
+﻿Seçenekler
+Kumanda
+Klavye
+Grafik Ayarları
+Ses Seviyesi
+Ekran Çözünürlüğü
+Pencereli Mod
+Görsel Efekt
+Kontrast
+Ortam aydıntlatması
+Bulanıklık
 Bloom
-Antialiasing
-Shadows
-Quality of the world
+Kenar Yumuşatma
+Gölgeler
+Dünya Kalitesi

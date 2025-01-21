@@ -1,4 +1,4 @@
-﻿Main goal
-Mark
-Success
-Death
+﻿Ana Görev
+İşaretle
+Başardın
+Öldün

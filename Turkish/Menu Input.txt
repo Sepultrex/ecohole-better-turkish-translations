@@ -1,27 +1,27 @@
 ﻿
 
 
-Reset
-Up
-Down
-Left
-Right
-Walk
-Pick up an item
-Interact
-Hint
-Cancel
-Craft
-Use item
-Drop item
+Sıfırla
+Yukarı
+Aşağı
+Sol
+Sağ
+Yürü
+Eşya al
+Etkileşime geç
+Yardım
+İptal et
+Üret
+Eşyayı kullan
+Eşyayı bırak
 
-Move
+Hareket et
 Selection in the inventory
 Interactive
-Drop item
-Pick up item
-Craft
-Use item
-Walk
-Hint
-Menu
+Eşyayı bırak
+Eşyayı al
+Üret
+Eşyayı kullan
+Yürü
+İpucu
+Menü

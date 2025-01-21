@@ -1,8 +1,8 @@
-﻿Charge the flashlight
-Torch
-Charge the battery
-Explosives
+﻿El fenerini şarj et
+Meşale
+Pili şarj edin
+Patlayıcılar
 Charge the converter
-Reload the flamethrower
-Get the crystal
-Reload the gun
+Alev silahını doldur
+Kristali al
+Silahı doldur

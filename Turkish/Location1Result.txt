@@ -1,9 +1,9 @@
-﻿Survival Time
-Main progress
-Items crafted
-Sulfur taken
-Gunpowder taken
-Larvae sacrificed
-Explosives used
-Branches thrown into the fire
+﻿Hayatta kalma süresi
+Temel ilerleme
+Üretilen eşyalar
+Toplanan Sülfür
+Toplanan Barut
+Kurban edilen larvalar
+Kullanılan Patlayıcılar
+Ateşe atılan dallar
 Find the car keys to skip the monster

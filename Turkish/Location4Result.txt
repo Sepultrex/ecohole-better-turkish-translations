@@ -1,8 +1,8 @@
-﻿Survival time
-Basic progress
-Created items
-The chickens are eaten
-Wood burned
-Bones brought
-Scared away crows
-Make a scarecrow to scare away crows
+﻿Hayatta kalma süresi
+Temel ilerleme
+Üretilen eşyalar
+Yenilen tavuklar
+Yakılan odunlar
+Yakılan kemikler
+Korkutulan kargalar
+Kargaları korkutmak için yapılan korkuluklar

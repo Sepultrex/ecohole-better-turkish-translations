@@ -1,8 +1,8 @@
-﻿Not enough space
-The flamethrower is out of fuel
+﻿Yeterli yer yok
+Alev makinesinin yakıtı bitti
 The monster is blocked
-Need
-Craft
-Inventory
-Skip
-Empty
+Gerekli
+Üret
+Envanter
+Atla
+Boş

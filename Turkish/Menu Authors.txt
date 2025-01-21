@@ -1,10 +1,10 @@
-﻿Developers
+﻿Geliştiriciler
 Programming
-Animation
-Sounds
-Music
+Animasyon
+Ses
+Müzik
 Particles
-Textures (10%)
-Models (10%)
-Textures (90%)
-Models (90%)
+Dokular (%10)
+Modeller (%10)
+Dokular (%90)
+Modeller (%90)

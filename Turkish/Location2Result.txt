@@ -1,10 +1,10 @@
-﻿Survival Time
-Main progress
-Items crafted
-Generators filled with fuel
-Generator resets
-Mushrooms cut
-Flamethrower recharges
+﻿Hayatta kalma süresi
+Temel ilerleme
+Üretilen eşyalar
+Yakıt doldurulan jeneratörler
+Yeniden başlatılan jeneratörler
+Kesilen Mantarlar
+Şarj edilen alev makineleri
 Burned Leafers
 Cradle swinging time
 Find an axe to skip the monster
