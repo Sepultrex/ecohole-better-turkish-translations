@@ -11,7 +11,7 @@ daha iyi çeviri
 - Menü: %80 tamamlandı
 - Görevler: %60 tamamlandı
 - Diyaloglar: %50 tamamlandı
-- Diğer: %30 tamamlandı
+- Çeviri doğruluk testi: %30 tamamlandı
 
 ## 🔧 Katkıda Bulunabilirsiniz
 Eğer çeviriye katkıda bulunmak istiyorsanız pull request gönderebilirsiniz.
