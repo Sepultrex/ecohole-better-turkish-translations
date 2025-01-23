@@ -11,11 +11,11 @@ Devam et
 Eğer ikinci oyuncuysanız, daveti bekleyin
 Bir oyuncuyu sana katılması için davet et
 Davet Et
-İptal Et
+İptal
 Başlat
 Bağlantıyı Kes
 Diğer oyuncu yer seçiyor, bekle...
-Quick menu
+Menü
 Mother
 Yeniden Başlat
 Ana Menüye Dön

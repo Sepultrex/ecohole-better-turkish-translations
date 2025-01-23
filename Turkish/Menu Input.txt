@@ -2,11 +2,11 @@
 
 
 Sıfırla
-Yukarı
-Aşağı
-Sol
-Sağ
-Yürü
+Yukarı git
+Aşağı git
+Sola git
+Sağa git
+Yavaş Yürü
 Eşya al
 Etkileşime geç
 Yardım
@@ -16,12 +16,12 @@ Eşyayı kullan
 Eşyayı bırak
 
 Hareket et
-Selection in the inventory
-Interactive
+Envanter içinde eşya seçimi
+Eşyalar ile etkileşim
 Eşyayı bırak
 Eşyayı al
 Üret
 Eşyayı kullan
-Yürü
+Yavaş Yürü
 İpucu
 Menü
