@@ -1,3 +1,6 @@
+> [!WARNING]
+> TAMAMLANMADI ÇEVİRİ İŞLEMİ DEVAM EDİYOR
+
 <p align="left">
   <img src="https://github.com/user-attachments/assets/1b4a9e28-63d5-45d8-bdf1-675e993e53af" width="400">
   <img src="https://github.com/user-attachments/assets/31eef73f-1136-4bf1-90c3-6769e06e55d7" width="400">
