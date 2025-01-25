@@ -16,7 +16,7 @@ Başlat
 Bağlantıyı Kes
 Diğer oyuncu yer seçiyor, bekle...
 Menü
-Mother
+Anne
 Yeniden Başlat
 Ana Menüye Dön
 TAMAM

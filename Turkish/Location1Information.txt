@@ -1,9 +1,9 @@
-﻿Hungry mother
-In order not to fall into the mouth of this monster, try to stay in the light.
+﻿Aç Anne
+Canavarın yem olmamak için ışıkta kalmaya çalış.
 Monfly
-Huge maggots are climbing out of the ground, take them to the totem to appease the strong hunger of the Monfly.
-Big-eared beast
-Your actions attract the attention of this monster. Try to use quiet walking. If necessary, the Big-eared beast can be scared off using homemade explosives.
+Yerden dev kurtçuklar çıkıyor, Monfly'ın seni rahat bırakması için onları toteme götür.
+Koca kulaklı canavar
+Hareketlerin bu canavarın dikkatini çekiyor sessiz yürümeye çalış. Gerekirse Koca Kulaklı canavarı patlayıcı kullanılarak korkutabilirsin.
 
 
 
@@ -12,13 +12,13 @@ Your actions attract the attention of this monster. Try to use quiet walking. If
 
 
 
-Open the hood.
-Take a wrench in the trunk and fix the missing parts.
-Remove the battery from the car. Take the power unit and charge the battery.
-Insert the battery back into the machine and fix the problems with the battery.
-Take the jack and lift the front of the car.
-Take a wrench and remove the wheel.
-Take the spare wheel and attach it to the car.
-Find the pump and inflate the spare wheel.
-Find the machine oil and finish repairing.
-Get in the car and drive away.
+Kaputu aç.
+Bagajdan bir İngiliz anahtarı al ve hasarlı parçaları onar.
+Aküyü araçtan çıkar. Güç ünitesini al ve aküyü şarj et.
+Pili araca geri takın ve kabloları bağllayın.
+Krikoyu al ve arabanın önünü kaldır.
+Bir İngiliz anahtarı ile tekerleği çıkar.
+Stepneyi al ve arabaya tak.
+Pompa bul ve stepneyi şişir.
+Motor yağını bul ve onarımı bitir.
+Arabaya bin ve uzaklaş.

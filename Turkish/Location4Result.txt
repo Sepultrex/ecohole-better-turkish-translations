@@ -5,4 +5,4 @@ Yenilen tavuklar
 Yakılan odunlar
 Yakılan kemikler
 Korkutulan kargalar
-Kargaları korkutmak için yapılan korkuluklar
+Kargaları korkutmak için korkuluk yap
