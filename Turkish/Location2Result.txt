@@ -1,10 +1,10 @@
 ﻿Hayatta kalma süresi
 Temel ilerleme
 Üretilen eşyalar
-Yakıt doldurulan jeneratörler
-Yeniden başlatılan jeneratörler
+Jeneratöre kaç kez yakıt dolduruldu
+jeneratör kaç kez yeniden başlatıldı
 Kesilen Mantarlar
-Şarj edilen alev makineleri
-Burned Leafers
-Cradle swinging time
-Find an axe to skip the monster
+Alev silahı kaç kez dolduruldu
+Leafer kaç kez yakıldı
+Bebek arabası sallama süresi
+Canavarları atlatmak için bir balta bul

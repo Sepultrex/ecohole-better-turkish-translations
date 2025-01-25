@@ -1,22 +1,22 @@
-﻿Night spider
-The night spider will ignore you as long as you are in the light. Therefore, do not let the generator shut down and refill it with fuel from the canister in time.
+﻿Gece örümceği
+Işıkta olduğun sürece gece örümceği seni görmezden gelecektir. Bu nedenle jeneratörün kapanmasına izin verme ve zamanında yakıt doldurmayı unutma.
 Leafer
-As soon as the Leafer appears, you must immediately find it and stop it with a flamethrower.
-Flying head
-As soon as this monster appears, glowing mushrooms begin to grow throughout the district, and the monsters gets aggressive faster. Cut them off with a knife. If the Flying Head is too close to you, scare it away by resetting the generator. Please note that the amount of fuel decreases during the reset.
-Cradle
-If you want to survive, you must promptly reduce the aggression of each monster, including the monster in the cradle. Swing the cradle to calm the monster.
+Leafer ortaya çıkar çıkmaz hemen onu bul ve alev silahı ile yak.
+Uçan Kafa
+Bu canavar ortaya çıktığında yerde parlayan mantarlar çıkmaya başlar ve canavarlar daha çok saldırganlaşır bu yüzden mantarları kes. Uçan Kafa sana çok yakınsa jeneratörü yeniden başlat bu onu korkutup uzaklaştırır. Yeniden başlatma sırasında yakıtın kullandığını unutma.
+Bebek Arabası
+Hayatta kalmak istiyorsan bebek arabasındaki canavar da dahil olmak üzere her canavarın saldırganlığını derhal azaltmalısın. Canavarları sakinleştirmek için bebek arbasını salla.
 
 
 
 
 
 
-Turn on the generator!
-Investigate the area, find a knife and clear the passage to the security booth.
-Take the flamethrower.
-Burn the slime with the flamethrower.
-Use the toolbox and duct tape to fix the terminal wiring.
-Take the batteries and combine them with the converters. Charge the capsules with charged converters. There are only three of them.
-Press the button and wait for the bunker doors to open. If you overload the generator, the opening of the door will be interrupted.
-The bunker is open, now you can enter.
+Jeneratörü çalıştır!
+Bölgeyi araştır, bir bıçak bul ve güvenlik kulübesinin kapısını temizle.
+Alev silahını al.
+Alev silahı ile balçığı yak.
+Terminal kablolarını sabitlemek için alet kutusunu ve koli bandını kullan.
+Pilleri al ve boş dönüştürücülerle birleştir. Kapsülleri dolu dönüştürücülerle şarj et. Bunlardan sadece üç tane var.
+Düğmeye bas ve sığınak kapısının açılmasını bekle. Jeneratörü aşırı yüklersen kapının açılması kesintiye uğrayacaktır.
+Sığınak kapısı açıldı, artık girebilirsin.
