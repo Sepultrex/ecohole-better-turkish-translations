@@ -11,10 +11,10 @@ daha iyi çeviri
 
 ## 🌐 Çeviri Durumu
 
-- Menü: %80 tamamlandı
+- Menü: %90 tamamlandı
 - Görevler: %60 tamamlandı
-- Diyaloglar: %50 tamamlandı
-- Çeviri doğruluk testi: %30 tamamlandı
+- Diyaloglar: %57 tamamlandı
+- Çeviri doğruluk testi: %57 tamamlandı
 
 ## 🔧 Katkıda Bulunabilirsiniz
 Eğer çeviriye katkıda bulunmak istiyorsanız pull request gönderebilirsiniz.
